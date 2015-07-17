@@ -1,0 +1,54 @@
+#xxc_workspace{
+    position: fixed;
+    top:0px;
+    left: 0px;
+    z-index: 19999;
+    pointer-events:none;
+}
+#xxc_top{
+    height: 10%;
+
+}
+#xxc_main{
+    height: 83%;
+    width: 100%;
+
+}
+#xxc_mleft{
+    height:100%;
+    float: left;
+
+}
+#xxc_mright{
+    height:100%;
+    float: right;
+
+}
+#xxc_footer{
+    height: 7%;
+    width: 100%;
+
+}
+
+
+
+
+#xxc_toolbar{
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+    z-index:99;
+    pointer-events:auto;
+}
+
+#tx_words{
+    height: 80%;
+    width: 98%;
+}
+
+#xxc_word_error{
+    word-wrap: break-word;
+}
+#xxc_word_ok{
+    word-wrap: break-word;
+}

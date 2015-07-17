@@ -1,0 +1,30 @@
+/*
+#panclient ul{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#panclient li{
+    border-bottom: 1px goldenrod solid;
+    margin: 1px;
+    padding: 0px;
+}
+
+*/
+#panclient ul {
+    margin: 0px;
+    padding: 0px;
+    border: none !important;
+}
+
+#panclient li{
+    border-bottom: 1px goldenrod solid;
+}
+
+body,div{
+    margin: 0px;
+    padding: 1px;
+    background-color:#eee;
+        /*    background-color: #F4F0EC;  human*/
+}
